@@ -1,0 +1,181 @@
+Brain sample,Fold Region,Which average difference,Comparison_number,Bok_1929_gyri_to_wall_thickness_difference,Bok_1929_sulci_to_wall_thickness_difference,Lamina,,
+Not very curved,L. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,1,-2,55,I,2,-55
+Not very curved,L. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,1,-7,7,II,7,-7
+Not very curved,L. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,1,-13,-1,III,13,1
+Not very curved,L. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,1,2,0,IV,-2,0
+Not very curved,L. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,1,-2,-5,V,2,5
+Not very curved,L. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,1,20,-1,VI,-20,1
+Not very curved,L. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,2,-7,53,I,7,-53
+Not very curved,L. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,2,-6,8,II,6,-8
+Not very curved,L. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,2,-16,0,III,16,0
+Not very curved,L. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,2,-1,-2,IV,1,2
+Not very curved,L. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,2,4,-3,V,-4,3
+Not very curved,L. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,2,19,-3,VI,-19,3
+Not very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri1_minus_Sulci1,3,-5,27,I,5,-27
+Not very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri1_minus_Sulci1,3,-5,9,II,5,-9
+Not very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri1_minus_Sulci1,3,-9,-3,III,9,3
+Not very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri1_minus_Sulci1,3,-5,1,IV,5,-1
+Not very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri1_minus_Sulci1,3,3,3,V,-3,-3
+Not very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri1_minus_Sulci1,3,16,-10,VI,-16,10
+Not very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,4,-5,26,I,5,-26
+Not very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,4,-2,10,II,2,-10
+Not very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,4,-11,0,III,11,0
+Not very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,4,-2,3,IV,2,-3
+Not very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,4,-5,-5,V,5,5
+Not very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,4,20,-8,VI,-20,8
+Not very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,5,-5,36,I,5,-36
+Not very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,5,-4,7,II,4,-7
+Not very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,5,-6,2,III,6,-2
+Not very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,5,-14,5,IV,14,-5
+Not very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,5,-2,-2,V,2,2
+Not very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,5,26,-12,VI,-26,12
+Not very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,6,0,38,I,0,-38
+Not very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,6,2,10,II,-2,-10
+Not very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,6,-6,-3,III,6,3
+Not very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,6,-3,3,IV,3,-3
+Not very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,6,-6,-13,V,6,13
+Not very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,6,13,3,VI,-13,-3
+Not very curved,R. Temporopolar cortex (temporal lobe),Gyri1_minus_Sulci1,7,9,70,I,-9,-70
+Not very curved,R. Temporopolar cortex (temporal lobe),Gyri1_minus_Sulci1,7,5,17,II,-5,-17
+Not very curved,R. Temporopolar cortex (temporal lobe),Gyri1_minus_Sulci1,7,28,41,III,-28,-41
+Not very curved,R. Temporopolar cortex (temporal lobe),Gyri1_minus_Sulci1,7,9,13,IV,-9,-13
+Not very curved,R. Temporopolar cortex (temporal lobe),Gyri1_minus_Sulci1,7,20,17,V,-20,-17
+Not very curved,R. Temporopolar cortex (temporal lobe),Gyri1_minus_Sulci1,7,38,12,VI,-38,-12
+Not very curved,R. Temporopolar cortex (temporal lobe),Gyri2_minus_Sulci1,8,-7,54,I,7,-54
+Not very curved,R. Temporopolar cortex (temporal lobe),Gyri2_minus_Sulci1,8,-5,7,II,5,-7
+Not very curved,R. Temporopolar cortex (temporal lobe),Gyri2_minus_Sulci1,8,-14,-1,III,14,1
+Not very curved,R. Temporopolar cortex (temporal lobe),Gyri2_minus_Sulci1,8,-3,-1,IV,3,1
+Not very curved,R. Temporopolar cortex (temporal lobe),Gyri2_minus_Sulci1,8,6,-1,V,-6,1
+Not very curved,R. Temporopolar cortex (temporal lobe),Gyri2_minus_Sulci1,8,16,-4,VI,-16,4
+Not very curved,R. Middle temporal gyrus (temporal lobe),Gyri1_minus_Sulci1,9,-12,73,I,12,-73
+Not very curved,R. Middle temporal gyrus (temporal lobe),Gyri1_minus_Sulci1,9,-6,12,II,6,-12
+Not very curved,R. Middle temporal gyrus (temporal lobe),Gyri1_minus_Sulci1,9,-17,-5,III,17,5
+Not very curved,R. Middle temporal gyrus (temporal lobe),Gyri1_minus_Sulci1,9,1,-1,IV,-1,1
+Not very curved,R. Middle temporal gyrus (temporal lobe),Gyri1_minus_Sulci1,9,-2,-6,V,2,6
+Not very curved,R. Middle temporal gyrus (temporal lobe),Gyri1_minus_Sulci1,9,24,0,VI,-24,0
+Not very curved,R. Middle temporal gyrus (temporal lobe),Gyri2_minus_Sulci1,10,-1,82,I,1,-82
+Not very curved,R. Middle temporal gyrus (temporal lobe),Gyri2_minus_Sulci1,10,-4,12,II,4,-12
+Not very curved,R. Middle temporal gyrus (temporal lobe),Gyri2_minus_Sulci1,10,3,16,III,-3,-16
+Not very curved,R. Middle temporal gyrus (temporal lobe),Gyri2_minus_Sulci1,10,1,-1,IV,-1,1
+Not very curved,R. Middle temporal gyrus (temporal lobe),Gyri2_minus_Sulci1,10,5,-6,V,-5,6
+Not very curved,R. Middle temporal gyrus (temporal lobe),Gyri2_minus_Sulci1,10,-5,-21,VI,5,21
+Not very curved,"L. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,11,-3,44,I,3,-44
+Not very curved,"L. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,11,-5,4,II,5,-4
+Not very curved,"L. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,11,-12,8,III,12,-8
+Not very curved,"L. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,11,-1,-2,IV,1,2
+Not very curved,"L. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,11,2,-2,V,-2,2
+Not very curved,"L. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,11,16,-8,VI,-16,8
+Not very curved,"L. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,12,8,55,I,-8,-55
+Not very curved,"L. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,12,7,14,II,-7,-14
+Not very curved,"L. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,12,28,48,III,-28,-48
+Not very curved,"L. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,12,11,9,IV,-11,-9
+Not very curved,"L. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,12,21,17,V,-21,-17
+Not very curved,"L. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,12,33,12,VI,-33,-12
+Not very curved,R. Paracentral lobule (frontal lobe/parietal lobe),Gyri1_minus_Sulci1,13,-2,52,I,2,-52
+Not very curved,R. Paracentral lobule (frontal lobe/parietal lobe),Gyri1_minus_Sulci1,13,-7,7,II,7,-7
+Not very curved,R. Paracentral lobule (frontal lobe/parietal lobe),Gyri1_minus_Sulci1,13,-13,-1,III,13,1
+Not very curved,R. Paracentral lobule (frontal lobe/parietal lobe),Gyri1_minus_Sulci1,13,2,0,IV,-2,0
+Not very curved,R. Paracentral lobule (frontal lobe/parietal lobe),Gyri1_minus_Sulci1,13,-2,-5,V,2,5
+Not very curved,R. Paracentral lobule (frontal lobe/parietal lobe),Gyri1_minus_Sulci1,13,20,-1,VI,-20,1
+Not very curved,R. Paracentral lobule (frontal lobe/parietal lobe),Gyri2_minus_Sulci1,14,-5,47,I,5,-47
+Not very curved,R. Paracentral lobule (frontal lobe/parietal lobe),Gyri2_minus_Sulci1,14,-6,8,II,6,-8
+Not very curved,R. Paracentral lobule (frontal lobe/parietal lobe),Gyri2_minus_Sulci1,14,-16,0,III,16,0
+Not very curved,R. Paracentral lobule (frontal lobe/parietal lobe),Gyri2_minus_Sulci1,14,-1,-2,IV,1,2
+Not very curved,R. Paracentral lobule (frontal lobe/parietal lobe),Gyri2_minus_Sulci1,14,4,-3,V,-4,3
+Not very curved,R. Paracentral lobule (frontal lobe/parietal lobe),Gyri2_minus_Sulci1,14,19,-3,VI,-19,3
+Very curved,R. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,15,-11,51,I,11,-51
+Very curved,R. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,15,-3,3,II,3,-3
+Very curved,R. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,15,-24,0,III,24,0
+Very curved,R. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,15,-3,-2,IV,3,2
+Very curved,R. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,15,5,-2,V,-5,2
+Very curved,R. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,15,25,1,VI,-25,-1
+Very curved,R. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,16,0,63,I,0,-63
+Very curved,R. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,16,0,6,II,0,-6
+Very curved,R. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,16,-4,22,III,4,-22
+Very curved,R. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,16,2,0,IV,-2,0
+Very curved,R. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,16,0,-9,V,0,9
+Very curved,R. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,16,2,-19,VI,-2,19
+Very curved,"R. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,17,-28,-25,I,28,25
+Very curved,"R. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,17,-11,-9,II,11,9
+Very curved,"R. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,17,-23,-9,III,23,9
+Very curved,"R. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,17,0,2,IV,0,-2
+Very curved,"R. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,17,8,5,V,-8,-5
+Very curved,"R. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,17,26,11,VI,-26,-11
+Very curved,"R. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,18,-3,7,I,3,-7
+Very curved,"R. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,18,0,15,II,0,-15
+Very curved,"R. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,18,-9,4,III,9,-4
+Very curved,"R. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,18,-5,-11,IV,5,11
+Very curved,"R. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,18,0,-1,V,0,1
+Very curved,"R. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,18,14,-7,VI,-14,7
+Very curved,"R. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,19,-4,6,I,4,-6
+Very curved,"R. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,19,-7,11,II,7,-11
+Very curved,"R. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,19,-4,8,III,4,-8
+Very curved,"R. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,19,-16,-17,IV,16,17
+Very curved,"R. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,19,0,-1,V,0,1
+Very curved,"R. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,19,27,-1,VI,-27,1
+Very curved,R. Middle temporal gyrus (temporal lobe),Gyri1_minus_Sulci1,20,-3,41,I,3,-41
+Very curved,R. Middle temporal gyrus (temporal lobe),Gyri1_minus_Sulci1,20,-3,12,II,3,-12
+Very curved,R. Middle temporal gyrus (temporal lobe),Gyri1_minus_Sulci1,20,-4,5,III,4,-5
+Very curved,R. Middle temporal gyrus (temporal lobe),Gyri1_minus_Sulci1,20,-2,3,IV,2,-3
+Very curved,R. Middle temporal gyrus (temporal lobe),Gyri1_minus_Sulci1,20,2,-7,V,-2,7
+Very curved,R. Middle temporal gyrus (temporal lobe),Gyri1_minus_Sulci1,20,7,-13,VI,-7,13
+Very curved,R. Middle temporal gyrus (temporal lobe),Gyri2_minus_Sulci1,21,-12,32,I,12,-32
+Very curved,R. Middle temporal gyrus (temporal lobe),Gyri2_minus_Sulci1,21,-7,7,II,7,-7
+Very curved,R. Middle temporal gyrus (temporal lobe),Gyri2_minus_Sulci1,21,-28,-14,III,28,14
+Very curved,R. Middle temporal gyrus (temporal lobe),Gyri2_minus_Sulci1,21,-6,0,IV,6,0
+Very curved,R. Middle temporal gyrus (temporal lobe),Gyri2_minus_Sulci1,21,15,5,V,-15,-5
+Very curved,R. Middle temporal gyrus (temporal lobe),Gyri2_minus_Sulci1,21,26,2,VI,-26,-2
+Very curved,"R. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,22,-3,24,I,3,-24
+Very curved,"R. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,22,-5,13,II,5,-13
+Very curved,"R. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,22,-7,-4,III,7,4
+Very curved,"R. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,22,1,-4,IV,-1,4
+Very curved,"R. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,22,4,-2,V,-4,2
+Very curved,"R. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,22,7,-3,VI,-7,3
+Very curved,"R. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,23,,23,I,0,-23
+Very curved,"R. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,23,,11,II,0,-11
+Very curved,"R. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,23,,-1,III,0,1
+Very curved,"R. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,23,,-4,IV,0,4
+Very curved,"R. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,23,,-3,V,0,3
+Very curved,"R. Basal forebrain (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,23,,-3,VI,0,3
+Very curved,L. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,24,-2,39,I,2,-39
+Very curved,L. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,24,-1,5,II,1,-5
+Very curved,L. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,24,-1,7,III,1,-7
+Very curved,L. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,24,-2,0,IV,2,0
+Very curved,L. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,24,0,-8,V,0,8
+Very curved,L. Medial frontal gyrus (frontal lobe),Gyri1_minus_Sulci1,24,4,-4,VI,-4,4
+Very curved,L. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,25,-6,37,I,6,-37
+Very curved,L. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,25,-4,3,II,4,-3
+Very curved,L. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,25,-18,5,III,18,-5
+Very curved,L. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,25,-3,1,IV,3,-1
+Very curved,L. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,25,11,-6,V,-11,6
+Very curved,L. Medial frontal gyrus (frontal lobe),Gyri2_minus_Sulci1,25,14,-3,VI,-14,3
+Very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,26,-41,-37,I,41,37
+Very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,26,-17,-16,II,17,16
+Very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,26,-15,-9,III,15,9
+Very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,26,-6,-3,IV,6,3
+Very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,26,6,9,V,-6,-9
+Very curved,"L. Insular cortex (lateral sulcus, postcentral)",Gyri2_minus_Sulci1,26,32,19,VI,-32,-19
+Very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,27,-5,13,I,5,-13
+Very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,27,-6,10,II,6,-10
+Very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,27,-7,1,III,7,-1
+Very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,27,-12,-4,IV,12,4
+Very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,27,0,-2,V,0,2
+Very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri1_minus_Sulci1,27,25,-5,VI,-25,5
+Very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,28,-6,13,I,6,-13
+Very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,28,-5,11,II,5,-11
+Very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,28,-6,-6,III,6,6
+Very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,28,-10,-4,IV,10,4
+Very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,28,2,1,V,-2,-1
+Very curved,"L. Striatum (forebrain, subcortical basal ganglia)",Gyri2_minus_Sulci1,28,24,-2,VI,-24,2
+Very curved,L. Temporopolar cortex (temporal lobe),Gyri1_minus_Sulci1,29,-2,42,I,2,-42
+Very curved,L. Temporopolar cortex (temporal lobe),Gyri1_minus_Sulci1,29,0,6,II,0,-6
+Very curved,L. Temporopolar cortex (temporal lobe),Gyri1_minus_Sulci1,29,-15,-3,III,15,3
+Very curved,L. Temporopolar cortex (temporal lobe),Gyri1_minus_Sulci1,29,-1,0,IV,1,0
+Very curved,L. Temporopolar cortex (temporal lobe),Gyri1_minus_Sulci1,29,6,1,V,-6,-1
+Very curved,L. Temporopolar cortex (temporal lobe),Gyri1_minus_Sulci1,29,10,-4,VI,-10,4
+Very curved,L. Temporopolar cortex (temporal lobe),Gyri2_minus_Sulci1,30,-6,39,I,6,-39
+Very curved,L. Temporopolar cortex (temporal lobe),Gyri2_minus_Sulci1,30,-2,4,II,2,-4
+Very curved,L. Temporopolar cortex (temporal lobe),Gyri2_minus_Sulci1,30,-21,-10,III,21,10
+Very curved,L. Temporopolar cortex (temporal lobe),Gyri2_minus_Sulci1,30,-1,1,IV,1,-1
+Very curved,L. Temporopolar cortex (temporal lobe),Gyri2_minus_Sulci1,30,10,5,V,-10,-5
+Very curved,L. Temporopolar cortex (temporal lobe),Gyri2_minus_Sulci1,30,14,0,VI,-14,0
